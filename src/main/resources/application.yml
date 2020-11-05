@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/invilliabugtracker
+    username: root
+    password: 123456
+    pool-size: 30
