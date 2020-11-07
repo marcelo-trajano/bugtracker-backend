@@ -1,7 +1,6 @@
 package com.invillia.bugtracker.model;
 
 
-import org.springframework.data.mongodb.core.mapping.Document;
 
 
 import javax.persistence.*;
